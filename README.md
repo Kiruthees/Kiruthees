@@ -43,25 +43,22 @@ A virtual memory simulator implementing **paging, page tables, logical-to-physic
 
 ## 🛠️ Tech Stack
 
-**Languages**
+## 🛠️ Tech Stack
 
-`C++` `Python` `Java` `SQL`
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,mysql)](https://skillicons.dev)
 
-**Machine Learning**
+### Machine Learning & Data
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
 
-`PyTorch` `TensorFlow` `scikit-learn` `XGBoost` `NumPy` `Matplotlib`
+### Backend & Web
+[![My Skills](https://skillicons.dev/icons?i=spring,html,css)](https://skillicons.dev)
 
-**Backend & Web**
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea)](https://skillicons.dev)
 
-`Spring` `HTML` `CSS`
-
-**Tools**
-
-`Git` `GitHub` `GitLab` `VS Code` `IntelliJ IDEA`
-
-**Other**
-
-`LaTeX` `AutoCAD` `Creo`
+### Other
+[![My Skills](https://skillicons.dev/icons?i=latex)](https://skillicons.dev)
 
 ---
 
