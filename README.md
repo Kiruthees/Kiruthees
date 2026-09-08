@@ -43,8 +43,6 @@ A virtual memory simulator implementing **paging, page tables, logical-to-physic
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,java,mysql)](https://skillicons.dev)
 
