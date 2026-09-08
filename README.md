@@ -10,7 +10,7 @@ I enjoy building things from scratch, solving challenging algorithmic problems, 
 
 ## ⚡ Competitive Programming
 
-* 🟣 **Codeforces:** 1927 — Candidate Master
+* 🟣 **Codeforces:** 1928 — Candidate Master
 * 🟡 **CodeChef:** 2057 — 5★
 * 🟢 **LeetCode:** Guardian, 1000+ problems solved
 * ✍️ **USACO Guide:** Problem solution articles
@@ -74,9 +74,9 @@ A virtual memory simulator implementing **paging, page tables, logical-to-physic
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiruthees-g-b1bab3311/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1627-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kiruthees5)
-[![LeetCode](https://img.shields.io/badge/LeetCode-800%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kiruthees)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1976-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/many_petal_95/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1928-8B5CF6?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kiruthees5)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B-1F8ACB?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Kiruthees)
+[![CodeChef](https://img.shields.io/badge/CodeChef-2057-FFA116?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/many_petal_95/)
 
 ---
 
