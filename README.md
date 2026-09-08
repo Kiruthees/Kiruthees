@@ -74,7 +74,7 @@ A virtual memory simulator implementing **paging, page tables, logical-to-physic
 ## 📫 Connect With Me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/kiruthees-g-b1bab3311/)
-[![Codeforces](https://skillicons.dev/icons?i=latexcodeforces)](https://codeforces.com/profile/Kiruthees5)
+[![Codeforces](https://skillicons.dev/icons?i=codeforces)](https://codeforces.com/profile/Kiruthees5)
 [![LeetCode](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/u/Kiruthees)
 [![CodeChef](https://skillicons.dev/icons?i=codechef)](https://www.codechef.com/users/many_petal_95/)
 
