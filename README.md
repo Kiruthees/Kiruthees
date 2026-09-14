@@ -10,9 +10,9 @@ I enjoy building things from scratch, solving challenging algorithmic problems, 
 
 ## ⚡ Competitive Programming
 
-* 🟣 **Codeforces:** 1928 — Candidate Master
+* 🟣 **Codeforces:** 1938 — Candidate Master
 * 🟡 **CodeChef:** 2057 — 5★
-* 🟢 **LeetCode:** Guardian, 1000+ problems solved
+* 🟢 **LeetCode:** Guardian, 1100+ problems solved
 * ✍️ **USACO Guide:** Problem solution articles
 
 I particularly enjoy **Dynamic Programming, Graph Algorithms, Data Structures, Optimization, and Problem Solving**.
