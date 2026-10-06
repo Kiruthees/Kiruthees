@@ -33,12 +33,6 @@ A **Deep Q-Network (DQN)** agent trained to play Snake using PyTorch, with custo
 
 **Python · PyTorch · Reinforcement Learning**
 
-### 💾 Memory-Management-System
-
-A virtual memory simulator implementing **paging, page tables, logical-to-physical address translation, RAM/swap management, and page replacement algorithms**.
-
-**C++ · Operating Systems · LRU · FIFO · Virtual Memory**
-
 ---
 
 ## 🛠️ Tech Stack
