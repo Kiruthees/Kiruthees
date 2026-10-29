@@ -1,10 +1,12 @@
 # Hi, I'm Kiruthees 👋
 
 🎓 **B.Tech @ IIT Madras**
-💻 **Competitive Programmer · Software Engineer**
-📈 Interested in **SWE, Quantitative Finance, AI/ML**
 
-I enjoy building things from scratch, solving challenging algorithmic problems, and exploring the intersection of **mathematics, software, and machine learning**.
+💻 **Competitive Programmer · Software Engineer**
+
+📈 Interested in **SWE, Quantitative Finance, RL, ML**
+
+I enjoy solving challenging algorithmic problems, deep dive into core CS topics, and exploring the intersection of **mathematics and software**.
 
 ---
 
@@ -21,7 +23,7 @@ I particularly enjoy **Dynamic Programming, Graph Algorithms, Data Structures, O
 
 ## 💼 Experience
 
-### [![Goldman Sachs](https://logo.clearbit.com/goldmansachs.com?size=40)](https://www.goldmansachs.com/) [Software Engineering Intern — Goldman Sachs](https://www.goldmansachs.com/)
+### Software Engineering Intern — Goldman Sachs
 
 *Futures Technology Team, Global Banking & Markets*
 
@@ -79,7 +81,7 @@ A **Deep Q-Network (DQN)** agent trained to play Snake using PyTorch, with custo
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiruthees-g-b1bab3311/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1928-a855f7?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Kiruthees5)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1938-a855f7?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Kiruthees5)
 [![LeetCode](https://img.shields.io/badge/LeetCode-2137-1F8ACB?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Kiruthees)
 [![CodeChef](https://img.shields.io/badge/CodeChef-2057-FFA116?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/many_petal_95/)
 
