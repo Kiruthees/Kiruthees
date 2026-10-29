@@ -41,16 +41,22 @@ A **Deep Q-Network (DQN)** agent trained to play Snake using PyTorch, with custo
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,java,mysql)](https://skillicons.dev)
 
 ### Machine Learning & Data
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn)](https://skillicons.dev)
 
 ### Backend & Web
 [![My Skills](https://skillicons.dev/icons?i=spring,html,css)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,sublime)](https://skillicons.dev)
 
 ### Other
 [![My Skills](https://skillicons.dev/icons?i=latex)](https://skillicons.dev)
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-AI%20Assistant-000000?logo=githubcopilot&logoColor=white)
+![Devin AI](https://img.shields.io/badge/Devin-AI%20Agent-6C47FF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
+![XGBoost](https://img.shields.io/badge/XGBoost-Machine%20Learning-EC6B23)
+![SQL](https://img.shields.io/badge/SQL-Database-4479A1)
 
 ---
 
