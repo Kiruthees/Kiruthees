@@ -19,6 +19,16 @@ I particularly enjoy **Dynamic Programming, Graph Algorithms, Data Structures, O
 
 ---
 
+## 💼 Experience
+
+### [![Goldman Sachs](https://logo.clearbit.com/goldmansachs.com?size=40)](https://www.goldmansachs.com/) [Software Engineering Intern — Goldman Sachs](https://www.goldmansachs.com/)
+
+*Futures Technology Team, Global Banking & Markets*
+
+- Applied object-oriented programming, API integration, and Data structures to build an Automated Backend service using Java Spring Framework.
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🌐 Network-File-Sync
@@ -47,12 +57,9 @@ A **Deep Q-Network (DQN)** agent trained to play Snake using PyTorch, with custo
 [![My Skills](https://skillicons.dev/icons?i=spring,html,css)](https://skillicons.dev)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,sublime)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,sublime,latex)](https://skillicons.dev)
 
-### Other
-[![My Skills](https://skillicons.dev/icons?i=latex)](https://skillicons.dev)
-
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-AI%20Assistant-000000?logo=githubcopilot&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-AI%20Coding%20Assistant-000000?logo=githubcopilot&logoColor=white)
 ![Devin AI](https://img.shields.io/badge/Devin-AI%20Agent-6C47FF)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Machine%20Learning-EC6B23)
