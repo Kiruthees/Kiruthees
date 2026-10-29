@@ -71,5 +71,3 @@ A **Deep Q-Network (DQN)** agent trained to play Snake using PyTorch, with custo
 [![CodeChef](https://img.shields.io/badge/CodeChef-2057-FFA116?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/many_petal_95/)
 
 ---
-
-### 💡 *Build. Solve. Learn. Repeat.*
