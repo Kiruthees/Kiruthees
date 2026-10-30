@@ -47,6 +47,17 @@ A **Deep Q-Network (DQN)** agent trained to play Snake using PyTorch, with custo
 
 ---
 
+✍️ USACO Guide — Editorials
+
+Authored problem editorials for the "USACO Guide" (https://usaco.guide/), covering advanced algorithmic techniques and competitive programming concepts.
+
+- "Principle of Inclusion-Exclusion" (https://usaco.guide/problems/cses-2421-counting-reorders/solution) — Platinum
+- "Range Queries and Range Updates using Lazy Segment Trees" (https://usaco.guide/problems/ys-range-affine-range-sum/solution) — Platinum
+- "Bitmask Dynamic Programming" (https://usaco.guide/problems/ac-grouping/solution)
+- "Minimal Grid Paths" (https://usaco.guide/problems/cses-3359-minimal-grid-path/solution) — Classic DP
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -66,15 +77,6 @@ A **Deep Q-Network (DQN)** agent trained to play Snake using PyTorch, with custo
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Machine%20Learning-EC6B23)
 ![SQL](https://img.shields.io/badge/SQL-Database-4479A1)
-
----
-
-## 🔬 Currently Exploring
-
-* 🧩 Advanced Algorithms & Competitive Programming
-* 📈 Quantitative Finance & Algorithmic Trading
-* 🤖 Machine Learning & Reinforcement Learning
-* 💻 Operating Systems & Computer Systems
 
 ---
 
